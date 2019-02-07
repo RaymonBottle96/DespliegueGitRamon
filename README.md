@@ -10,5 +10,3 @@ En esta pagina hablo de dos lenguajes de programacion, JAVA y JavaScript
 ### Mapa de Navegación
 
 ![mapa de navegacion](https://user-images.githubusercontent.com/39703269/52435327-db962780-2b11-11e9-8792-d4ed2281e4ca.png)
-
-``
