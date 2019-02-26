@@ -37,8 +37,8 @@
             </ul>
             <form class="form-inline" action="#" method="post">
                 <div class="form-group">
-                    <input type="text" class="form-control" name="name" placeHolder="Nombre" required>
-                    <input type="text" class="form-control" name="lenguaje" placeHolder="Lenguaje">
+                    <input type="text" class="form-control" name="name" placeHolder="Nombre usuario" required>
+                    <input type="text" class="form-control" name="lenguaje" placeHolder="Lenguaje utilizado">
                     <textarea class="form-control" maxlength="128" name="comentario" placeHolder="Máximo 150 caracteres"></textarea>
                     <input type="submit" class="botonAnadir" name="submit" value="Añadir">
                 </div>
