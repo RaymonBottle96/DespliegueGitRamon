@@ -1,0 +1,48 @@
+.cajaFormulario {
+    width:300px;
+    border:1px solid blue;
+    margin-top:50px;
+    margin-left: 39%;
+    background-color:yellow;
+    padding:10px;
+}
+
+.titulo {
+    background-color:blue;
+    padding:10px;
+    
+}
+
+label{
+  color: white;
+  margin:0;
+  display:inline-block;
+}
+
+.nombre {
+    font-weight: bold;
+    margin-left: 0px;
+}
+
+.cajaFormulario .form-group * {
+    width:80%;
+}
+
+.listaComentarios {
+    padding:0;
+    list-style:none;
+    max-height:200px;
+    overflow:auto;
+    background-color:#210d92;
+}
+.listaComentarios li {
+    margin:0;
+    margin-top:10px;
+    background-color:white;
+}
+
+
+.botonAnadir{
+    background-color: blue;
+    color: white;
+}
